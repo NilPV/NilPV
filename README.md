@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NilPV
 - 👀 I’m interested in LoRa devices and IoT
 - 🌱 I’m currently learning Materials Sciences
-- 💞️ I’m looking to collaborate on Arduuino codes
+- 💞️ I’m looking to collaborate on Arduino codes
 - 📫 How to reach me ...
 
 <!---
